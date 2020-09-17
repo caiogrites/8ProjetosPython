@@ -1,0 +1,16 @@
+mat-card{
+    width: max-content;
+    background-color:#41506f;
+    color: white;
+}
+form {
+    display: flex;
+    flex-direction: column;
+}
+input{
+    color: black;
+}
+button{
+    margin: 20px 15px 0px 0px;
+    color: #ffffff;
+}
